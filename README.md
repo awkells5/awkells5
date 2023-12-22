@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Alex Kells
 
-<h3> Languages & Tools </h3>
+<h3> Languages & Tools: </h3>
 
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
