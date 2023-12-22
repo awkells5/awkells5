@@ -1,37 +1,5 @@
 ### Hi 👋, I'm Alex Kells
 
-<style>
-
-@keyframes bgcolor {
-    0% {
-        background-color: #ffffff
-    }
-
-    30% {
-        background-color: #f0ebfc
-    }
-
-    60% {
-        background-color: #ffffff
-    }
-
-    90% {
-        background-color: #f0ebfc
-    }
-
-    100% {
-        background-color: #ffffff
-    }
-}
-
-div {
-    -webkit-animation: bgcolor 30s infinite;
-    animation: bgcolor 30s infinite;
-    -webkit-animation-direction: alternate;
-    animation-direction: alternate;
-}
-</style>
-
 <h3> Languages & Tools: </h3>
 
 <div align="center">
