@@ -1,5 +1,3 @@
-### Hi 👋, I'm Alex Kells
-
 <h3> Languages & Tools: </h3>
 
 <div align="center">
